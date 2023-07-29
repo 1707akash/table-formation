@@ -1,7 +1,7 @@
-Github link- https://github.com/1707akash/table-formation
-Hosted link- https://1707akash.github.io/table-formation/
-![Uploading title.PNG…]()
-![Uploading titlecode.PNG…]() <br>
+![title](https://github.com/1707akash/table-formation/assets/117883959/75dab178-16e4-44a1-b1ed-8c65ca697dd7)Github link- https://github.com/1707akash/table-formation
+Hosted link- https://1707akash.github.io/table-formation/ <br>
+![title](https://github.com/1707akash/table-formation/assets/117883959/a45ba669-cf4b-4c2c-ab7f-598c4ab565e9)
+![titlecode](https://github.com/1707akash/table-formation/assets/117883959/0471ced9-73be-4fc7-a07f-daf43bf48206)
 html tag is used for an html document. <br>
 head tag is a container for metadata.<br>
 In the head tag, title tag is used to give the name to the document.<br>
